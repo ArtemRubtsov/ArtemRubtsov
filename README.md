@@ -21,6 +21,14 @@ I am  constantly improving my skill s and plan to expand them wi th new technolo
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/)
 
+<br/>
+<br/>
+
+![Artem GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemRubtsov&show_icons=true&theme=transparent)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemRubtsov&layout=compact)
+
 
 
 
