@@ -9,6 +9,8 @@ I am  constantly improving my skill s and plan to expand them wi th new technolo
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Rubtsov7)
 [![Gmail](https://img.shields.io/badge/Artem%20Rubtsov-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ua.rubtsov.a@gmail.com)
 [![X.com](https://img.shields.io/badge/@rubtsov_dev-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/@rubtsov_dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ArtemRubcov)
+
 
 
 
