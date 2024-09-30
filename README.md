@@ -12,7 +12,7 @@ I am  constantly improving my skills and plan to expand them with new technologi
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ArtemRubcov)
 
 
-#### :hammer_and_wrench: Top Technologies  Top Technologies
+#### :hammer_and_wrench: Top Technologies  
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
