@@ -1,4 +1,17 @@
 ## Hi there 👋
+I'm a Front-end developer with 1 year of development experience in creating SPA (Single Page Applications).
+I work with technologies such as React, TypeScript, Redux(RTK), and other related libraries.
+I am  constantly improving my skill s and plan to expand them wi th new technologies like React Nat ive. In my free t ime, I enjoy reading IT li terature, and improving my English.
+
+:mailbox: Reach me out!
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Rubtsov7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ua.rubtsov.a@gmail.com)
+
+
+
+
 
 <!--
 **ArtemRubtsov/ArtemRubtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
