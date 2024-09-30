@@ -24,10 +24,14 @@ I am  constantly improving my skill s and plan to expand them wi th new technolo
 <br/>
 <br/>
 
-![Artem GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemRubtsov&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemRubtsov&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img align="left" width="47%" alt="Artem GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArtemRubtsov&show_icons=true&theme=transparent"/>
+  <img align="right" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemRubtsov&layout=compact"/>
+</div>
+
+
 
 
 
