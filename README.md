@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm a Front-end developer with 1 year of development experience in creating SPA (Single Page Applications).
-I work with technologies such as React, TypeScript, Redux(RTK), and other related libraries.
-I am  constantly improving my skill s and plan to expand them wi th new technologies like React Nat ive. In my free t ime, I enjoy reading IT li terature, and improving my English.
+I'm a ✨ Front-end developer ✨ with 1 year of development experience in creating SPA (Single Page Applications).
+I work 🔭 with technologies such as React, TypeScript, Redux(RTK), and other related libraries ⚡.
+I am  constantly improving my skills and plan to expand them with new technologies like React Native. In my free time, I enjoy reading IT literature, and improving my English 🌱.
 
 :mailbox: Reach me out!
 
