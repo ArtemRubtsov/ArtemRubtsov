@@ -28,8 +28,8 @@ Continuously improving my skills, I’m excited to explore new areas like React 
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" width="47%" alt="Artem GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArtemRubtsov&show_icons=true&theme=transparent"/>
-  <img align="right" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemRubtsov&layout=compact"/>
+<!--   <img align="left" width="47%" alt="Artem GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArtemRubtsov&show_icons=true&theme=transparent"/> -->
+  <img align="left" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemRubtsov&layout=compact"/>
 </div>
 
 
