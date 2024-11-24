@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm a ✨ Front-end developer ✨ focused on building dynamic and user-friendly web applications. 
-I work 🔭 with modern technologies such as React, TypeScript, Redux(RTK), and related tools ⚡. 
-Continuously improving my skills, I’m excited to explore new areas like React Native. In my spare time, I enjoy expanding my knowledge of IT and enhancing my English 🌱.
+
 
 
 :mailbox: Reach me out!
